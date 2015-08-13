@@ -9,5 +9,13 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: _jonesian
 github_username:  ijones16
 
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-sitemap
+
+jekyll-mentions:
+  base_url: https://twitter.com
+
 # Build settings
 markdown: kramdown

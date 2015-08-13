@@ -4,6 +4,7 @@ title:  "Javascript Closures"
 date:   2015-08-04 13:12:21
 categories: javascript fundamentals
 ---
+
 Closures are critical to the success to any Javascript application. Simply put, a closure in Javascript is a way to keep data private, scoped on an object. Lets say you created an function called person:
 
 {% highlight javascript %}
