@@ -5,7 +5,7 @@ date:   2015-08-04 13:12:21
 categories: jekyll
 ---
 
-![alt text](http://www.webhostwhat.com/wp-content/uploads/host-jekyll-blog-github.jpg "Jekyll")
+![alt text](../../../../images/blog/host-jekyll-blog-github.jpg "Jekyll")
 
 I thought that setting up my own custom blog was going to be hard. Turn out I couldn't
 have been more wrong! [Jekyll](http://jekyllrb.com/) is a static page Ruby framework.
