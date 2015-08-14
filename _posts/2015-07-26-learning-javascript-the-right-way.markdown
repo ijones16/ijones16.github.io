@@ -6,7 +6,7 @@ categories: javascript fundamentals
 ---
 In this blog, I am going to document what I have been interested in lately. I’ve heard that writing things down can help solidify what you have been thinking about. _Hopefully this turns out to be true and maybe I will be able to improve my writing skills while I’m at it._
 
-Recently, I have taken a liking to Javascript ()[even though it might be an endless black hole](http://cube-drone.com/comics/c/relentless-persistence)). It has been moving at such a fast pace; it’s overwhelming for new developers to know what they need to learn.
+Recently, I have taken a liking to Javascript ([even though it might be an endless black hole](http://cube-drone.com/comics/c/relentless-persistence)). It has been moving at such a fast pace; it’s overwhelming for new developers to know what they need to learn.
 
 I have experienced a good amount of A.D.D. when it comes to JS frame works. First it was Angluar, then React, and then I heard about how awesome observables were with RXjs, next I was wondering if I should take on functional programming and then, of course, there are the next standards of Javascript!
 
@@ -19,3 +19,14 @@ __Hear are some cool links:__
 - [The Two Pillars of Javascript](https://medium.com/p/ee6f3281e7f3)
 - [Cycle.js](http://cycle.js.org/)
 - [Animate.css](https://daneden.github.io/animate.css/)
+
+<form action="http://pooleapp.com/stash/82b2bf98-e0cc-4ec0-8f61-d44e9b9bc5b6/" method="post">
+ <h2>Leave your comment</h2>
+ <!-- <input type="hidden" name="redirect_to" value="/thanks" /> -->
+  <input type="hidden" name="path" value="/javascript/fundamentals/2015/07/26/learning-javascript-the-right-way.html" />
+ <label for="name">Your name</label><input type="text" name="name">
+ <label for="url">Your website <span>(optional)</span></label><input type="text" name="url">
+ <label for="email">Your email <span>(I'll never spam you)</span></label><input type="text" name="email">
+ <label for="comment">Your comment</label><textarea name="comment" class="comment-text"></textarea>
+ <input type="submit" value="Post comment" class="submit" />
+</form>
