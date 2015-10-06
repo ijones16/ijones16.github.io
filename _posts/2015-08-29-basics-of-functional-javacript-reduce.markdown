@@ -96,6 +96,7 @@ countWords(inputWords);
 //  is: 2,
 //  awesome: 1,
 //  It: 1,
+//  is: 1,
 //  something: 1,
 //  that: 1,
 //  every: 1,
