@@ -4,7 +4,7 @@ title: Just Start Writing
 date: 2016-06-28 13:12:21
 comments: true
 ---
-![The Nerd Life](../../../../images/nerdlife.jpg "The Nerd Life")
+![alt text](../../../../images/blog/nerdlife.jpg "The Nerd Life")
 
 Today, I went to a React Meet up in Portland Oregon (first one! :confetti_ball:).
 It was awesome and I highly recommend that everyone go to meetups that focus on the
