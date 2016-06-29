@@ -2,6 +2,7 @@
 layout: post
 title:  "Javascript Closures"
 date:   2015-08-04 13:12:21
+comments: true
 categories: javascript fundamentals
 ---
 

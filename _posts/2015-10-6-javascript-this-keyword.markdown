@@ -2,6 +2,7 @@
 layout: post
 title:  "Javascript's <em>this</em> keyword"
 date:   2015-10-6 13:12:21
+comments: true
 categories: javascript fundamentals
 ---
 

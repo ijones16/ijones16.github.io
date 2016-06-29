@@ -2,6 +2,7 @@
 layout: post
 title:  "Setting Up Jekyll With Github Pages"
 date:   2015-08-14 13:12:21
+comments: true
 categories: jekyll
 ---
 

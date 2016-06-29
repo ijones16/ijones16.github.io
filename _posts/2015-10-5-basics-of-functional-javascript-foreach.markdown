@@ -2,6 +2,7 @@
 layout: post
 title:  "Basics of Functional Javascript: Array.forEach"
 date:   2015-10-5 13:12:21
+comments: true
 categories: functional javascript
 ---
 

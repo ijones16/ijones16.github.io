@@ -2,6 +2,7 @@
 layout: post
 title:  "Basics of Functional Javascript: Array.reduce"
 date:   2015-08-29 13:12:21
+comments: true
 categories: functional javascript
 ---
 
