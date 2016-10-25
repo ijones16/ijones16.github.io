@@ -120,6 +120,8 @@ Now, I am currently in Wroclaw (pronounced vrotz-av for my non-Polish friends). 
 bars, ending with some Polish karaoke . I tried tar-tar, something that I never thought I would try. Surprisingly, it tasted 
 really good. Today, it is pretty damp so I decided to stay inside a chill.
 
+![the dwarf](https://s3.amazonaws.com/ianjonesfirehose/uploads/blog/traveling_europe/wroclaw_dwarf.jpg)
+
 # Future Plans
 
 I believe that Krakow is my next destination. I have heard good things about the city so it will be fun to check out. I may be 
